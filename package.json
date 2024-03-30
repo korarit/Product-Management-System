@@ -1,0 +1,16 @@
+{
+  "name": "product-management-system",
+  "version": "1.0.0",
+  "description": "for dev init 2 borntodev",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Korarit Saengthong",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
